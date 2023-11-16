@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gaur=$(date +"%Y-%m-%d")
+gaur=$(date +"%Y-%m-%d-%H-%M")
 atzo=$(date -d "yesterday" +"%Y-%m-%d")
 
 #/home/oier/Segurtasuna/ izango da lan egiten ari garen direktorioa
